@@ -1,0 +1,5 @@
+Hello there, this is James from the East Coast bootcamp!
+
+I like coffee and sleeping in on the weekends.
+
+I also love to learn new things such as Git, CSS, and JavaScript, which I hope to learn in this bootcamp.
