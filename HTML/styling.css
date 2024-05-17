@@ -1,0 +1,25 @@
+/* Setting background color */
+body {
+    background-color: darkolivegreen;
+    /* Previous background color: rgb(104, 105, 80); */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: antiquewhite;
+}
+
+.title-and-heading-style {
+    color:rgb(169, 212, 226);
+}
+
+.definition-style {
+    color:orange;
+}
+
+/* Specifying link color */
+a[href]{
+    color:lightcoral;
+}
+
+/* If we hover over that link... */
+a[href]:hover{
+    color:white;
+}
